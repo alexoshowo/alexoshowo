@@ -1,6 +1,11 @@
 # HELLO i'm Olexandr
 
-WELCOME TO MY HOMEPAGE
+WELCOME TO MY HOMEPAGE/n 
+
+
+
+
+#
 Somewhat Designer and Lazy-ass Student based in Ukraine.
 Also i often intrested in various tech stuff
 
