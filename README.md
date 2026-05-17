@@ -1,7 +1,4 @@
-# HELLO i'm Olexandr
-
-WELCOME TO MY HOMEPAGE/n 
-
+# HELLO
 
 
 
