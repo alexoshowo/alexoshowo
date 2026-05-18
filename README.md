@@ -11,7 +11,7 @@ However i do a variety of things, such as minecraft servers, or other random thi
 
 Some tools i use
 
-**Design**: Figma, Photopea
+**Design**: Figma, Photopea, Affinity
 
 **Code editor**: whatever the f, seriousely, i pick whatever gets the job done. <br>
 *USUALLY*: Jetbrains IDEs, Zed, Sublime Text, VSCode, Visual Studio, Neovim<br>
