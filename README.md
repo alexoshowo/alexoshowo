@@ -22,7 +22,7 @@ Honorable mention to Vim, i cant live without thing now in everywhere that is te
 **editor for any other type of text**: Obsidian
 
 **Operating System**: Windows 11(i hate this thing, but currently dont have other options + i am lazy),<br>
-Linux when needed or bored(Ubuntu or Arch, i can try using something new, also only GNOME or i3)
+Linux when needed or bored(Ubuntu or Arch)
 
 
 
