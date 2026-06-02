@@ -4,7 +4,7 @@
 
 #
 Somewhat Designer and Lazy-ass Student based in Ukraine.<br>
-Also i often intrested in various tech stuff
+Also i can do random shi i am intrested in at the moment
 
 Currently posting here useless websites i am building from time to time for fun.<br>
 However i do a variety of things, such as minecraft servers, or other random things.
