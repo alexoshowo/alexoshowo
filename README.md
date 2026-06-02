@@ -15,13 +15,12 @@ Some tools i use
 
 **Code editor**: whatever the f, seriousely, i pick whatever gets the job done. <br>
 *USUALLY*: Jetbrains IDEs, Zed, Sublime Text, VSCode, Visual Studio, Neovim<br>
-Honorable mention to Vim, i cant live without thing now in everywhere that is text related
+Honorable mention to Vim, i cant live without thing now in everywhere that is text related<br>
+More in Dotfiles
 
 **Web Stack**: Vite, Vanilla HTML/CSS/JavaScript
 
-**editor for any other type of text**: Obsidian
 
-**Workstations**: Main PC(Windows 11, R3600 RTX 2060, 16RAM), Old PC(Ubuntu 26.04 i56600 GTX1050Ti). Laptop(Macbook Air M5 24RAM)
 
 
 
