@@ -21,9 +21,7 @@ Honorable mention to Vim, i cant live without thing now in everywhere that is te
 
 **editor for any other type of text**: Obsidian
 
-**Operating System**: Windows 11(i hate this thing, but currently dont have other options + i am lazy),<br>
-Linux when needed or bored(Ubuntu or Arch)
-
+**Workstations**: Main PC(Windows 11, R3600 RTX 2060, 16RAM), Old PC(Ubuntu 26.04 i56600 GTX1050Ti). Laptop(Macbook Air M5 24RAM)
 
 
 
