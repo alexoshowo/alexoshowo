@@ -3,11 +3,8 @@
 
 
 #
-Somewhat Designer and Lazy-ass Student based in Ukraine.<br>
-Also i can do random shi i am intrested in at the moment
+Somewhat Designer and Computer Science student at Vynnitsa National Technical University<br>
 
-Currently posting here useless websites i am building from time to time for fun.<br>
-However i do a variety of things, such as minecraft servers, or other random things.
 
 Some tools i use
 
@@ -16,6 +13,11 @@ Some tools i use
 **Code editor**: JetBrains IDEs, Zed/Sublime, Neovim.
 
 **Web Stack**: Vite, Vanilla HTML/CSS/JavaScript
+
+Studying:
+.net
+
+
 
 
 
