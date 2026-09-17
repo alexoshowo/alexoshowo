@@ -8,7 +8,7 @@ Somewhat Designer and Computer Science student at Vynnitsa National Technical Un
 
 Some tools i use
 
-**Design**: Figma, Photopea, Affinity
+**Design**: Figma, Affinity
 
 **Code editor**: JetBrains IDEs, Zed/Sublime, Neovim.
 
@@ -17,6 +17,8 @@ Some tools i use
 Studying:
 .net
 
+
+dont use that much ai btw.
 
 
 
