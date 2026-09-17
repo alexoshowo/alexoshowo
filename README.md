@@ -13,10 +13,7 @@ Some tools i use
 
 **Design**: Figma, Photopea, Affinity
 
-**Code editor**: whatever the f, seriousely, i pick whatever gets the job done. <br>
-*USUALLY*: Jetbrains IDEs, Zed, VSCode or Neovim btw<br>
-Honorable mention to Vim, i cant live without thing now in everywhere that is text related<br>
-More in Dotfiles
+**Code editor**: JetBrains IDEs, Zed/Sublime, Neovim.
 
 **Web Stack**: Vite, Vanilla HTML/CSS/JavaScript
 
