@@ -18,7 +18,7 @@ Studying:
 .net
 
 
-dont use that much ai btw.
+not using much ai btw.
 
 
 
