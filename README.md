@@ -12,13 +12,10 @@ Some tools i use
 
 **Code editor**: JetBrains IDEs, Zed/Sublime, Neovim.
 
-**Web Stack**: Vite, Vanilla HTML/CSS/JavaScript
-
-Studying:
-.net
-
-
-not using much ai btw.
+**Studying**:
+PHP(How ironic)</br>
+.net</br>
+Software Architecture</br>
 
 
 
