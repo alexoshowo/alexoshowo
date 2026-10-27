@@ -12,7 +12,7 @@ Some tools i use
 
 **Code editor**: JetBrains IDEs, Zed/Sublime, Neovim.
 
-**Studying**:
+**Studying**:</br>
 PHP(How ironic)</br>
 .net</br>
 Software Architecture</br>
